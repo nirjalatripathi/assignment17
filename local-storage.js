@@ -49,14 +49,14 @@ clearBtn.addEventListener("click", function () {
 // Run on page load
 showData();
 
-//What is localStorage?
-//localStorage is a browser feature that allows you to store data permanently in the user’s browser.
+/*What is localStorage?
+localStorage is a browser feature that allows you to store data permanently in the user’s browser.
 
-//Difference between localStorage vs sessionStorage
-//localStorage stores data permanently in the browser.Here data remains after closing browser. localStorage works across all tabs.
-//sessionStorage stores data only for one session. Here data is deleted when tab is closed. sessionStorage works only in the current tab.
+Difference between localStorage vs sessionStorage
+localStorage stores data permanently in the browser.Here data remains after closing browser. localStorage works across all tabs.
+sessionStorage stores data only for one session. Here data is deleted when tab is closed. sessionStorage works only in the current tab.
 
-//When browser storage is useful in real applications
-//To save user preferences (dark mode, language).
-//To store login/session data.
-//To save form data temporarily.
+When browser storage is useful in real applications
+To save user preferences (dark mode, language).
+To store login/session data.
+To save form data temporarily. */

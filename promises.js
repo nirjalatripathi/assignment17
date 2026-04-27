@@ -59,13 +59,13 @@ loadData()
 
 
 //Task4: 
-//A promise is an object that represents the result of an asynchronous operation, which may be available now, in the future, or never.
-//A Promise is a guarantee that you will get a result later
+/*A promise is an object that represents the result of an asynchronous operation, which may be available now, in the future, or never.
+A Promise is a guarantee that you will get a result later
 
-//Difference between: 
-//Pending: It is the initial state of Promise. No results are available yet. 
-//Fulfilled: The operation is completed successfully. The promise returns a value. 
-//Rejected: The operation fails and promise returns an error. 
+Difference between: 
+Pending: It is the initial state of Promise. No results are available yet. 
+Fulfilled: The operation is completed successfully. The promise returns a value. 
+Rejected: The operation fails and promise returns an error. 
 
-//Why Promises are Useful in Real-World Async Operations
-//Promises are useful because they handle asynchronous operations efficiently, avoid callback hell, provide better error handling using .catch(), and make code more readable and maintainable.
+Why Promises are Useful in Real-World Async Operations
+Promises are useful because they handle asynchronous operations efficiently, avoid callback hell, provide better error handling using .catch(), and make code more readable and maintainable.*/
